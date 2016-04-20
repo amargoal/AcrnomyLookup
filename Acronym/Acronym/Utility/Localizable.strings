@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Acronym
+
+ //  Created by Amargoal1 on 4/19/16.
+ //  Copyright (c) 2016 com.demo. All rights reserved.
+ 
+*/
+
+
+"MeaningsSubtitleText" = "Used since %ld with %ld occurrances";
+"HeaderText" = "Meanings for \"%@\"";
+"NoResultsTitle" = "No results";
+"NoResultsMessage" = "Sorry..!! We couldn't find any meaning for \"%@\". Please try different text.";
+"VariationsHeaderText" = "Variations of \"%@\"";
+"NoVariationsLabelText" = "We couldn't find any variations for \"%@\"";
